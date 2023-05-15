@@ -1,6 +1,6 @@
 ## Produtos do fornecedor
 
-![Diagrama](https://github.com/talvaneramos/programaFornecedor/assets/69480959/7899a349-6410-47da-b074-3190b7159e69)
+![Diagrama](https://github.com/talvaneramos/programaFornecedor/assets/69480959/7a2f234b-039c-4c2b-bea1-7f51f5104050)
 
 Estruturas:
 + Foreach - Percorrer a lista de produtos
